@@ -1,0 +1,223 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A copy of a letter sent from Sir Tho. Middleton, to the Honorable, William Lenthall Esq: Speaker of the House of Commons. Concerning the raising of the siege at Osvvestree, Iuly 3. 1644. By the forces commanded by the Earl of Denbigh. Sir Tho. Middleton, and Sir Will. Brereton. Wherein was divers of our enemies, men of quality, taken prisoners; 7. carriages, 200. common souldiers, 2 peeces of artillery, 100. horse. Also severall other letters to persons of quality in confirmation of the said victory. Together with a list of all the prisoners and carriages that were taken. Printed according to order.</title>
+            <author>Middleton, Thomas, Sir, 1586-1666.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89124</idno>
+            <idno type="STC">Wing M1992</idno>
+            <idno type="STC">Thomason E54_16</idno>
+            <idno type="STC">ESTC R209924</idno>
+            <idno type="EEBO-CITATION">99868770</idno>
+            <idno type="PROQUEST">99868770</idno>
+            <idno type="VID">155243</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89124)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 155243)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 10:E54[16])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A copy of a letter sent from Sir Tho. Middleton, to the Honorable, William Lenthall Esq: Speaker of the House of Commons. Concerning the raising of the siege at Osvvestree, Iuly 3. 1644. By the forces commanded by the Earl of Denbigh. Sir Tho. Middleton, and Sir Will. Brereton. Wherein was divers of our enemies, men of quality, taken prisoners; 7. carriages, 200. common souldiers, 2 peeces of artillery, 100. horse. Also severall other letters to persons of quality in confirmation of the said victory. Together with a list of all the prisoners and carriages that were taken. Printed according to order.</title>
+                  <author>Middleton, Thomas, Sir, 1586-1666.</author>
+                  <author>W. D.</author>
+                  <author>T. B.</author>
+                  <author>Chadwick, Lew.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Edward Husbands,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Iuly. 10. 1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Includes letters from W.D., T.B. and Lew. Chadwick.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Oswestry (England) --  Siege, 1644 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:155243:1" rendition="simple:additions"/>
+            <p>A Copy of A LETTER SENT From Sir <hi>Tho. Middleton,</hi> to the Ho<g ref="char:EOLhyphen"/>norable, <hi>William Lenthall</hi> 
+               <abbr>Eſq</abbr> Speaker of the Houſe of COMMONS.</p>
+            <p>Concerning the raiſing of the Siege at OSVVESTREE, <hi>Iuly</hi> 3. 1644.</p>
+            <p>By the Forces Commanded by the
+<list>
+                  <item>Earl of <hi>Denbigh.</hi>
+                  </item>
+                  <item>Sir <hi>Tho. Middleton,</hi> and</item>
+                  <item>Sir <hi>Will. Brereton.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>Wherein was divers of our Enemies, men of Quality, taken Priſoners; 7. Carriages, 200. Com<g ref="char:EOLhyphen"/>mon Souldiers, 2 Peeces of Artillery, 100. Horſe.</p>
+            <p>Alſo ſeverall other Letters to perſons of Quality in Confirmation of the ſaid Victory.</p>
+            <p>Together with a Liſt of all the Priſoners and Car<g ref="char:EOLhyphen"/>riages that were taken.</p>
+            <p>Printed according to Order.</p>
+            <p>London, Printed for <hi>Edward Husbands.</hi> Iuly 10. 1644.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:155243:2"/>
+            <pb n="3" facs="tcp:155243:2"/>
+            <head>To the Honorable, <hi>William Lenthall</hi> Eſquire; Speaker of the Houſe of COMMONS.</head>
+            <opener>
+               <salute>HONO<g ref="char:V">Ʋ</g>RED SIR,</salute>
+            </opener>
+            <p>NOt to trouble you with vain Relations, whereby to hinder the other ſerious imployment for the Kingdoms good; May it pleaſe you to be adver<g ref="char:EOLhyphen"/>tiſed, That the Town of Oſſeſtree, late taken by the Forces of the Parliament, under my Brother Colonel <hi>Mittons</hi> command was upon Saturday laſt begun to be begirt, and ſince ſtrictly beſieged by the Kings for<g ref="char:EOLhyphen"/>ces, conſiſting of about Fifteen hundred Horſe, and Three thouſand five hundred Foot, under the com<g ref="char:EOLhyphen"/>mand of Colonell <hi>Marrow;</hi> And that thereupon, in purſuance of a Councell of War's determination, oc<g ref="char:EOLhyphen"/>caſioned by an earneſt and importunate Letter from my Brother Col. <hi>Mitton,</hi> directed to me, for ſpeedy re<g ref="char:EOLhyphen"/>lief and raiſing of the ſiege of the ſaid Town; I did upon the Lords day laſt paſt, with ſuch Forces of Horſe and Foot as I then had with me, and the Foot Forces of Cheſhire, all of us then at Knotsford, up<g ref="char:EOLhyphen"/>on a determinate reſolution to have marched for Man<g ref="char:EOLhyphen"/>cheſter, and then for the ſervice in the North: Accor<g ref="char:EOLhyphen"/>ding to enjoynment of the Committee of both King<g ref="char:EOLhyphen"/>doms, returned and readvanced with all my ſaid For<g ref="char:EOLhyphen"/>ces, unto a place called Spurſtow heath, where that night we quartered, and thence advanced upon Mun<g ref="char:EOLhyphen"/>day morning towards Whitchurch; we quartered that night likewiſe in the open Fields, at a place called the Fens in Flintſhire, where yeſterday we marched to<g ref="char:EOLhyphen"/>wards
+<pb n="4" facs="tcp:155243:3"/>Elſmore, and ſo to the ſaid town of Oſweſtree, where the Enemy endeavoured by battering and ſtor<g ref="char:EOLhyphen"/>ming of the ſame, violently to have carryed it; about Two of the clock in the afternoon we came in ſight of the Town, and within Three miles of it, where the Enemy having got Intelligence of our Approach, were prepared to receive us, the chief Forces of our Enemy conſiſting of the moſt valiant Commanders and Soul<g ref="char:EOLhyphen"/>diers, drawn out of the garriſons of Cheſter, Cheſhire, Shrewsbury, Shropſhire, Ludlow, Denbyſhire, Flint<g ref="char:EOLhyphen"/>ſhire, and other places. The Enemy had taken the paſ<g ref="char:EOLhyphen"/>ſage of water neer to Whittington, and very furiouſly aſſaulted and charged us, but were repulſed and forced to retire, through the courage of our Horſe, who moſt couragiouſly entertained the Enemy, three ſeverall times the skirmiſh was doubtfull, either ſide being for<g ref="char:EOLhyphen"/>ced ſo often to retreat, but in the end our Foot Forces coming up, relieved the Horſe, beat back the Enemy, and purſued them with ſuch force, that the Horſe thereby encouraged, which indeed was formerly wea<g ref="char:EOLhyphen"/>ry, joyning with the Foot; they put the Enemy to an abſolute flight, in which we purſued them Five miles towards Shrewsbury, to a place called Felton heath, and where likewiſe wee remained after their flight a<g ref="char:EOLhyphen"/>gain thence Maſters of the Field: In the skirmiſh with the Enemy, and in the purſuit, we loſt ſeverall of our Horſe, ſome of our Troopers, but never a Footman which I am yet informed of, many of the Troopers are hurt, but I hope they will recover; I loſt one Ca<g ref="char:EOLhyphen"/>ptain <hi>Williams,</hi> and one captain Lieutenant <hi>Fclether,</hi> a very couragious man, being Captain Lieutenants to Colonell <hi>Barton,</hi> in my Brigade was dangerouſly ſhot, but I hope not mortally. As for the Enemy, they loſt
+<pb n="5" facs="tcp:155243:3"/>many ſtout men, had many of them taken priſoners, the number whereof the incloſed will manifeſt, ſome of them being of great quality; As, the Lord <hi>New<g ref="char:EOLhyphen"/>ports</hi> eldeſt Son: And beſides, in their flight ſuch was their haſte, that we found in the way of our purſuit of them, the high way, as it were, ſtrewed with ſtore of Bread, Cheeſe, Bacon, and other good proviſions, clothes, and elſe, ſuch neceſſary appurtenance to an Army, beſides ſome whole Veals and Muttons new kill'd. The Enemy before the relief came, had taken the Church, being the ſtrongeſt hold about the Town, upon the approach of the relief they ſuddenly deſerted it, and ſent their two battering peeces unto Shrewſ<g ref="char:EOLhyphen"/>bury. In the way alſo were taken by our Forces, ſeven Carts and Waggons loaden with proviſions, as Beer, Bread and other neceſſaries, whereof one was loaden with Powder and other Ammunition, the Town of Oſweſtree I finde to be a very ſtrong Town, and if once fortified, of great concernment, and the Key that lets us into Wales.</p>
+            <p>
+               <hi>SIR,</hi> I had to my ayd three Regiments of Foot, viz. Col. George Booths Regiment, a gallant Regi<g ref="char:EOLhyphen"/>ment led by himſelf on foot, to the face of the Enemy; Another by Col. Manwaring, and the third by Col. Croxon, all of them ſtout and gallant Commanders, and the reſt of the Officers and Souldiers full of cou<g ref="char:EOLhyphen"/>rage and reſolution. Major Louthien, Adjutant Ge<g ref="char:EOLhyphen"/>nerall, that brave and faithfull Commander, to whom I cannot aſcribe too much honour, brought up the Reare that day.</p>
+            <closer>
+               <salute>SIR,</salute> 
+               <signed>I reſt Yours, THO: MIDDLETON.</signed>
+            </closer>
+         </div>
+         <div type="list_of_prisoners">
+            <pb n="7" facs="tcp:155243:4"/>
+            <head>
+               <hi>Priſoners taken at</hi> Oſweſtree; <date>Iuly 3. 1644.</date>
+            </head>
+            <list>
+               <item>
+                  <list>
+                     <head> Captains of a Troop of Horſe.</head>
+                     <item>Francis Newport, heir to the Lord Newport.</item>
+                     <item>Captain Swynerton.</item>
+                  </list>
+               </item>
+               <item>20. Welſh and Shropſhire Gentlemen.</item>
+               <item>1. Coronet of Horſe, <hi>which had no command.</hi>
+               </item>
+               <item>Lieutenant Norrell.</item>
+               <item>1. Quartermaſter.</item>
+               <item>2. Corporalls.</item>
+               <item>32. Troopers.</item>
+               <item>2. Peeces of Artillery, to come up to the walls to ſave the Muſquetiers.</item>
+               <item>7. Carriages, whereof one of Powder.</item>
+               <item>200. Common Souldiers, moſt of them Welſh.</item>
+               <item>100. Horſe.</item>
+               <item>Great ſtore of Arms found in the corn and ditches.</item>
+            </list>
+            <p>There is ſince taken Major Mauley, and Major Whirney, under the walls of Shrewsbury; we doubt not but to give a very good account of our ſervice there, and that ſpeedily.</p>
+         </div>
+         <div type="letter">
+            <head>For the much honoured, the Lady <hi>Middleton.</hi>
+            </head>
+            <opener>
+               <salute>Madam,</salute>
+            </opener>
+            <p>I Shall trouble you with the ſight of this paper, wherein you may pleaſe to obſerve Gods Provi<g ref="char:EOLhyphen"/>dence to us; on the Lords day laſt we marched from Knotsford to Bundbury, fourteen miles from Bun<g ref="char:EOLhyphen"/>bury in Cheſhire, to <hi>Fens Hall</hi> in Flintſhire, eleven miles on Monday, on Tueſday we marched to Oſe<g ref="char:EOLhyphen"/>ſtry: in the narrow lanes they layd their Ambuſca<g ref="char:EOLhyphen"/>does, three miles ſhort of the Town, kept all paſſages and lined all hedges to the Town, hedges thicke, and lanes ſtrait, from which our men beate them, though their horſe charged our men very furiouſly, followed them up to the Town, to their maine body, fighting all the way for three miles, in the meane
+<pb n="6" facs="tcp:155243:4"/>time their Carriages were drawn away, and their Foot Marched away in a Body, our men purſuing tooke theſe priſoners, but they being ſtrong in horſe hinde<g ref="char:EOLhyphen"/>red, that Execution that might have been done upon them: I can aſſure you, the Town of Oſweſtrey will be of great concernment to this Kingdom, and I hope this Enemy is well queld by raiſing of this Siege, though they were one thouſand five hundred Horſe, three thouſand five hundred Foote; but I hope your Countrymen are gone for the mountaines, and will not eaſily be drawn back for the ſame ſervice, ſo with Remembrance of my ſervice,</p>
+            <closer>
+               <signed>Your Ladiſhips faithfull ſervant, <hi>W. D.</hi>
+               </signed>
+               <dateline>Oſweſtrey, <date>Iuly 3. 1644.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <opener>
+               <salute>Sir,</salute>
+            </opener>
+            <p>I Shall give you a ſhort account of our preſent con<g ref="char:EOLhyphen"/>dition: by Gods Providence, We have won <hi>Munsford</hi> Bridge, beate the Enemies muskettiers there<g ref="char:EOLhyphen"/>from, have brought all our carriages over; are now within three miles from Shrewesbury, our forlorne hope, and the Enemies are at the preſent engaged, we are all now marching up with the whole Body. My Lord <hi>Denbigh,</hi> my Major <hi>Gell,</hi> Sir <hi>Tho. Mid.</hi> and the forenamed <hi>Cheſhire</hi> Gentlemen, are all at the preſent Advancing up; this was the deſign mentioned in my former letter, dated at <hi>Oſweſtry,</hi> but not ſignified: In briefe the Drums and Trumpets command me away, and ceaſe for the preſent, So I reſt</p>
+            <closer>
+               <dateline>Muntesford Bridge, <date>3. in the afternoon, of 4 Iuly 1644.</date>
+               </dateline>
+               <signed>Yours T. B.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="8" facs="tcp:155243:5"/>
+            <opener>
+               <salute>Noble Sir,</salute>
+            </opener>
+            <p>THeſe incloſed will ſhew you the State of York<g ref="char:EOLhyphen"/>ſhire, thankes be to God, much altered with us in a day, for yeſterday, a Commander and Kinſman of mine of Lichfield, our Enemy, ſent me a jeering letter, to advertiſe me that the Prince had taken old <hi>Leſly</hi> Sir <hi>Tho. Fairfax,</hi> 48. peeces of Cannon, thirty thouſand Armes, and had routed, ſlaine, and taken all the reſt of our friends. This was with great triumph blazed, with Bonfires, Bels, and Ordnance; in this Letter the Lo: <hi>Fairfax</hi> himſelf was taken. The Earl of <hi>Denbigh</hi> at Mancheſter was by a Counſell of War to retreat to <hi>Oſweſtrey,</hi> to raiſe the ſiege there laid by Col. <hi>Marrow;</hi> &amp; 4000. at leaſt, but before my Lord could all out reach it, marching with incredible ſpeed, Sir <hi>Tho. Middleton</hi> with leſſe then two thouſand vvas in fight, and vvith exceeding hot ſervice <hi>Marrow</hi> vvas raiſed, his foote routed, his carriages taken; he had but one peece, and that he ſent away before, hearing of my Lords approach, my Lord thereupon, without ſtay Marched toward Shrewsbury, vvhich he hath begirt as vve heare, vvith about five thouſand men. Sir <hi>John Meldrum,</hi> and Sir <hi>Will. Brereton</hi> are by this time about Yorke, and the freſh ſupply of Scotch, vvhich I hope vvill yeeld us dayly increaſe of good nevvs, of vvhich God-vvilling, I ſhall not faile to acquaint you, as I poſſibly may. I thought to have vvritten to the Lord Generall, my right vvorthy good Lord, the Earl of <hi>Eſſex,</hi> but I preſume you vvill impart theſe unto his Excellency. Noble Sir, I beſeech you eſteeme me as I really am,</p>
+            <closer>
+               <dateline>Staff. <date>Iuly 6.</date> about 8. Evening.</dateline>
+               <signed>Your faithfull Servant, Lew. Chadwick.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
